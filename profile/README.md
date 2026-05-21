@@ -1,4 +1,4 @@
-# Convi
+# ConviApp
 
 Convi is a platform built around a modern, security-first stack — from frontend to infrastructure.
 
