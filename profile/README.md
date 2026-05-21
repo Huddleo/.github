@@ -18,7 +18,3 @@ Convi is a platform built around a modern, security-first stack — from fronten
 - **Backend** — RagingHurricane
 - **Infrastructure** — Terraform · Terragrunt · Azure · Cloudflare
 - **GitOps** — ArgoCD · GitHub Actions
-
-## Security
-
-All repositories enforce GPG-signed commits, TruffleHog secret scanning, and supply chain protections via pnpm trust policies. See [SECURITY.md](../SECURITY.md) for vulnerability reporting.
