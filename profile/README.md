@@ -1,6 +1,6 @@
 # Huddle
 
-Convi is a platform built around a modern, security-first stack — from frontend to infrastructure.
+Huddle is a platform built around a modern, security-first stack — from frontend to infrastructure.
 
 ## Repositories
 
